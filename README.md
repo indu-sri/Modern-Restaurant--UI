@@ -22,7 +22,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/zamzam-restaurant.git
+git clone https://github.com/indu-sri/zamzam-restaurant.git
 Navigate to the Project Directory:
 
 bash
@@ -32,7 +32,7 @@ Open the index.html file in your browser:
 
 You can directly open the file or use a live server to view the project.
 
-##### Usage
+#####     Usage
 Customizing Content:
 
 Update the index.html file to modify text and images as per your restaurant's details.
@@ -41,14 +41,14 @@ Use the JavaScript files in the js/ directory to tweak animations and interactiv
 Deploying:
 
 You can host the website on platforms like GitHub Pages, Netlify, or any other web hosting service.
-###### File Structure
+######      File Structure
 index.html - The main HTML file for the homepage.
 css/ - Directory containing all CSS files for styling.
 js/ - Directory containing JavaScript files for interactive features.
 images/ - Directory containing images used throughout the site.
-## Contributing
+######      Contributing
 We welcome contributions to enhance the website! Please fork the repository and create a pull request with your changes.
-##### Contact
+######      Contact
 For any inquiries or issues, please contact:
 
 Email: booking@zamzamrestaurant.com
